@@ -1,4 +1,4 @@
-![CodeToImage](https://github.com/ApeWithGlasses/codetoimage/assets/88216778/74e49da3-ea3a-4c90-b998-e1d94f8ffdc3)
+![CodeToImageWhite](https://github.com/ApeWithGlasses/codetoimage/assets/88216778/37fdec9a-999b-47fc-aa82-ef1a1cdb2285)
 
 # CodeToImage
 
